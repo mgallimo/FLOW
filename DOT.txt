@@ -4,4 +4,4 @@ This is the first part of the additional text for Feature 4.
 
 SEcond line of text for Feature 4.
 
-This is the line of text for Feature4Branch2
+This is the line of text for Feature4Branch1
