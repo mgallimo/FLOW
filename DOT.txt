@@ -3,3 +3,5 @@ I wonder if anybody will get this reference.
 This is the first part of the additional text for Feature 1.
 
 Second part of additional text for Feature 1.
+
+This is the line of text for FEatureBranch2.
