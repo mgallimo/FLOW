@@ -3,3 +3,7 @@ I wonder if anybody will get this reference.
 This is the first part of the additional text for Feature 2.
 
 Second part of additional text for Feature 2.
+
+This is the line of text for Feature2Branch2. 
+
+FOR REAL THIS TIME
