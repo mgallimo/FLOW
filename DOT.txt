@@ -1,9 +1,9 @@
 I wonder if anybody will get this reference.
 
-This is the first part of the additional text for Feature 3
+This is the first part of the additional text for Feature 4.
 
-Second part of additional text for Feature 3.
+SEcond line of text for Feature 4.
 
-Well, shit. I fucked up on the order of things for this feature. Oh well. 
+This is the line of text for Feature4Branch2.
 
-Yep. definitely made the branch tooo early for this one. If that is even a thing.
+FOR REAL THIS TIME
