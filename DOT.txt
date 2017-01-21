@@ -1,3 +1,9 @@
 I wonder if anybody will get this reference.
 
 This is the first part of the additional text for Feature 3
+
+Second part of additional text for Feature 3.
+
+Well, shit. I fucked up on the order of things for this feature. Oh well. 
+
+Yep. definitely made the branch tooo early for this one. If that is even a thing.
